@@ -1,0 +1,12 @@
+defaultPortal: BogdanMyagkiyDev
+portals:
+  - name: BogdanMyagkiyDev
+    portalId: 26104465
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CN_LiqqkMBIJAA0AAAAA4A0DGJGluQwgs5iEFiju6QwyFBJu-9XhgdwWW2Nr2GUoU1q2ONvDOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhTo9mcwGXO7hMHc79j52MEbMTnkqkoDZXUxUgBaAA
+        expiresAt: '2022-07-28T14:42:52.002Z'
+    personalAccessKey: >-
+      CiRldTEtMzhlOC01OWU5LTRlYjAtYWJmNy1mZTNmZDZhZDE3YWIQkaW5DBizmIQWKhkABeaRgiWI__Y06Xsbm2DNhDhri0yWIpmNSgNldTE
